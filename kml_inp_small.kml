@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="kml_inp" id="kml_inp">
+	<SimpleField name="LINK_ID" type="string"></SimpleField>
+	<SimpleField name="NAME1" type="string"></SimpleField>
+	<SimpleField name="NAME2" type="string"></SimpleField>
+	<SimpleField name="FROM_NODE" type="string"></SimpleField>
+	<SimpleField name="TO_NODE" type="string"></SimpleField>
+	<SimpleField name="SPEEDCAR_T" type="int"></SimpleField>
+	<SimpleField name="SPEEDCAR_B" type="int"></SimpleField>
+	<SimpleField name="SPEEDTRU_T" type="int"></SimpleField>
+	<SimpleField name="SPEEDTRU_B" type="int"></SimpleField>
+	<SimpleField name="VMAX_CAR_T" type="int"></SimpleField>
+	<SimpleField name="VMAX_CAR_B" type="int"></SimpleField>
+	<SimpleField name="VMAX_TRU_T" type="int"></SimpleField>
+	<SimpleField name="VMAX_TRU_B" type="int"></SimpleField>
+	<SimpleField name="ACCESS_TOW" type="int"></SimpleField>
+	<SimpleField name="ACCESS_BKW" type="int"></SimpleField>
+	<SimpleField name="LENGTH" type="float"></SimpleField>
+	<SimpleField name="FRC" type="int"></SimpleField>
+	<SimpleField name="CAP_TOW" type="string"></SimpleField>
+	<SimpleField name="CAP_BKW" type="string"></SimpleField>
+	<SimpleField name="LANES_TOW" type="float"></SimpleField>
+	<SimpleField name="LANES_BKW" type="float"></SimpleField>
+	<SimpleField name="FORMOFWAY" type="int"></SimpleField>
+	<SimpleField name="BRUNNEL" type="int"></SimpleField>
+	<SimpleField name="MAXHEIGHT" type="float"></SimpleField>
+	<SimpleField name="MAXWIDTH" type="float"></SimpleField>
+	<SimpleField name="MAXPRESS" type="float"></SimpleField>
+	<SimpleField name="ABUTTERCAR" type="int"></SimpleField>
+	<SimpleField name="ABUTTERTRU" type="int"></SimpleField>
+	<SimpleField name="URBAN" type="int"></SimpleField>
+	<SimpleField name="WIDTH" type="float"></SimpleField>
+	<SimpleField name="INT_LEVEL" type="float"></SimpleField>
+	<SimpleField name="TOLL" type="int"></SimpleField>
+	<SimpleField name="BAUSTATUS" type="int"></SimpleField>
+	<SimpleField name="SUBNET_ID" type="int"></SimpleField>
+	<SimpleField name="ONEWAY_CAR" type="int"></SimpleField>
+	<SimpleField name="ONEWAY_BK" type="int"></SimpleField>
+	<SimpleField name="ONEWAY_BUS" type="int"></SimpleField>
+	<SimpleField name="EDGE_ID" type="float"></SimpleField>
+	<SimpleField name="EDGECAT" type="string"></SimpleField>
+	<SimpleField name="REGCODE" type="string"></SimpleField>
+	<SimpleField name="SUSTAINER" type="string"></SimpleField>
+	<SimpleField name="SDE_ID" type="string"></SimpleField>
+	<SimpleField name="SHAPE_LEN" type="float"></SimpleField>
+</Schema>
+<Folder><name>kml_inp</name>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">25014903</SimpleData>
+		<SimpleData name="NAME1">Leonard-Bernstein-StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">18006473</SimpleData>
+		<SimpleData name="TO_NODE">20032564</SimpleData>
+		<SimpleData name="SPEEDCAR_T">18</SimpleData>
+		<SimpleData name="SPEEDCAR_B">18</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">50</SimpleData>
+		<SimpleData name="VMAX_CAR_B">50</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">374.83</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1.0</SimpleData>
+		<SimpleData name="LANES_BKW">1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">8.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">20032521</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT92201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">7457246</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.416079257397591,48.237194245238378 16.416162129448555,48.237192361072353 16.416232161846729,48.237184723864672 16.416320072720225,48.237175950899534 16.41641943624494,48.237160635429525 16.416522046559159,48.237136605015444 16.416610041807079,48.237114762887217 16.416702860306099,48.237084275769675 16.416793988988456,48.237049363321574 16.416875432143435,48.237007923161741 16.416932385846888,48.236976336891509 16.41698449948186,48.236943629849549 16.417030095517045,48.236913105516756 16.41707074973051,48.236882654791337 16.417383231869451,48.236628798960339 16.417619171208681,48.236455583494937 16.41794138819639,48.236240923183004 16.418174211912586,48.236094899653715 16.418418286932681,48.235948866698173 16.418758549128629,48.235776628166541 16.418970181368557,48.235666590950302 16.419388777833646,48.235421926877642 16.419822045903249,48.235147460688509 16.419901975813186,48.235084520379409</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">33048464</SimpleData>
+		<SimpleData name="NAME1">LassallestraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">10346587</SimpleData>
+		<SimpleData name="TO_NODE">10346583</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">5</SimpleData>
+		<SimpleData name="VMAX_CAR_B">5</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">150.43</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">302</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">18513325</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6967704</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.395402479786011,48.220953895053803 16.396904147356256,48.221727298799401 16.396995901252794,48.221787533475499</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">33048539</SimpleData>
+		<SimpleData name="FROM_NODE">18888087</SimpleData>
+		<SimpleData name="TO_NODE">18888107</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">47.98</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">16</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">319</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">18888108</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6967778</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.398613068343352,48.226797210260827 16.398777016327024,48.226898786376417 16.398930150831074,48.227098661040117 16.398967332665045,48.227150562012596</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23095857</SimpleData>
+		<SimpleData name="NAME1">AusstellungsstraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">18001553</SimpleData>
+		<SimpleData name="TO_NODE">18000993</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">18</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">50</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383629</SimpleData>
+		<SimpleData name="LENGTH">256.95</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">5.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">302</SimpleData>
+		<SimpleData name="ONEWAY_CAR">0</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">0</SimpleData>
+		<SimpleData name="EDGE_ID">18253759</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6929495</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.406284126456317,48.218016758847298 16.409643429672396,48.218011639214431 16.409740169142321,48.218023662388909</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23148140</SimpleData>
+		<SimpleData name="NAME1">AusstellungsstraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">18001552</SimpleData>
+		<SimpleData name="TO_NODE">18001553</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">18</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">50</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383629</SimpleData>
+		<SimpleData name="LENGTH">94.48</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">4.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">302</SimpleData>
+		<SimpleData name="ONEWAY_CAR">0</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">0</SimpleData>
+		<SimpleData name="EDGE_ID">18253757</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6933913</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.405012763630257,48.218023851584562 16.406284126456317,48.218016758847298</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23078801</SimpleData>
+		<SimpleData name="FROM_NODE">18002280</SimpleData>
+		<SimpleData name="TO_NODE">18002283</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">24.19</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">313</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">18495936</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6928040</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.402671343732198,48.226374783026628 16.402717170374885,48.226360844927768 16.402762475732519,48.226349717485185 16.402798414873629,48.226332412636502 16.40282234755826,48.22630099273205 16.402831549431252,48.226261501885318 16.40282928133124,48.226214710723347</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23066332</SimpleData>
+		<SimpleData name="NAME1">StuwerstraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">10346554</SimpleData>
+		<SimpleData name="TO_NODE">10346631</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">18</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">30</SimpleData>
+		<SimpleData name="VMAX_CAR_B">30</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">3</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">147.68</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">14.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">0</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">0</SimpleData>
+		<SimpleData name="EDGE_ID">10043844</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6926989</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.39913310945542,48.218801411890453 16.401120459583456,48.218795809105863</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23069533</SimpleData>
+		<SimpleData name="FROM_NODE">18006941</SimpleData>
+		<SimpleData name="TO_NODE">18004711</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">146.28</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">313</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">18499852</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT92201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6927253</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.41462124459342,48.240350026851111 16.414658960355823,48.240252972886225 16.414726514031848,48.240135101808939 16.414895295175835,48.239978519536102 16.415028396342812,48.239942737086253 16.415156763668861,48.239907729349731 16.415218243777467,48.239876140834035 16.415248183373009,48.239852443016638 16.415272750680955,48.23982397171676 16.415300258897865,48.239724394778747 16.415294480128427,48.23966032241276 16.415297908201197,48.239632708318801 16.415328388105674,48.239618143572265 16.415452927904088,48.239624662309275 16.415694271747228,48.239668829198145 16.415861332663397,48.239693796330791 16.415872684354383,48.239689432166664</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23167890</SimpleData>
+		<SimpleData name="NAME1">Venediger Au</SimpleData>
+		<SimpleData name="FROM_NODE">10346472</SimpleData>
+		<SimpleData name="TO_NODE">10346544</SimpleData>
+		<SimpleData name="SPEEDCAR_T">18</SimpleData>
+		<SimpleData name="SPEEDCAR_B">18</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">30</SimpleData>
+		<SimpleData name="VMAX_CAR_B">30</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">93.30</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1.0</SimpleData>
+		<SimpleData name="LANES_BKW">1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">13.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">10044909</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6935575</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.395672113272855,48.22073124417259 16.396414436497025,48.220054540747618</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23173126</SimpleData>
+		<SimpleData name="NAME1">Julius-Payer-Gasse</SimpleData>
+		<SimpleData name="FROM_NODE">10345223</SimpleData>
+		<SimpleData name="TO_NODE">10345224</SimpleData>
+		<SimpleData name="SPEEDCAR_T">18</SimpleData>
+		<SimpleData name="SPEEDCAR_B">18</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">30</SimpleData>
+		<SimpleData name="VMAX_CAR_B">30</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">120.69</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1.0</SimpleData>
+		<SimpleData name="LANES_BKW">1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">4.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">10033355</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT92201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6936028</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.422671411473384,48.233118794933773 16.422754012271003,48.233084656669085 16.423979085214764,48.232850606837168 16.424017986933048,48.232845729783243 16.424044700023718,48.232846481875768 16.424072678734419,48.232849762776205 16.424099400138136,48.232855363074151 16.424216197132221,48.232894267194084</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23183961</SimpleData>
+		<SimpleData name="NAME1">Aristides-de-Sousa-Mendes-Promenade</SimpleData>
+		<SimpleData name="FROM_NODE">10344004</SimpleData>
+		<SimpleData name="TO_NODE">10379675</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">3</SimpleData>
+		<SimpleData name="ACCESS_BKW">3</SimpleData>
+		<SimpleData name="LENGTH">142.00</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">10379658</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT92201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6936979</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.412059544322315,48.236177017002547 16.412384402391268,48.235886209992643 16.412478407632644,48.235733895818775 16.41317669169608,48.235147398595892</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23197871</SimpleData>
+		<SimpleData name="NAME1">Platz-der-Vereinten-Nationen</SimpleData>
+		<SimpleData name="FROM_NODE">10345171</SimpleData>
+		<SimpleData name="TO_NODE">18008013</SimpleData>
+		<SimpleData name="SPEEDCAR_T">20</SimpleData>
+		<SimpleData name="SPEEDCAR_B">20</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">50</SimpleData>
+		<SimpleData name="VMAX_CAR_B">50</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383630</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383630</SimpleData>
+		<SimpleData name="LENGTH">66.76</SimpleData>
+		<SimpleData name="FRC">4</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1.0</SimpleData>
+		<SimpleData name="LANES_BKW">3.0</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">16.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">10358452</SimpleData>
+		<SimpleData name="EDGECAT">L</SimpleData>
+		<SimpleData name="REGCODE">AT92201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6938202</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.416005186589359,48.231702274448139 16.415413091800165,48.232153959487547</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">25000064</SimpleData>
+		<SimpleData name="NAME1">ReichsbrÃ¼cke</SimpleData>
+		<SimpleData name="FROM_NODE">20000224</SimpleData>
+		<SimpleData name="TO_NODE">18789678</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">3</SimpleData>
+		<SimpleData name="ACCESS_BKW">3</SimpleData>
+		<SimpleData name="LENGTH">68.34</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">20000226</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6949731</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.40404510643728,48.225086687856091 16.404684062790704,48.225462336570892 16.404736780553144,48.225491814491818</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23230123</SimpleData>
+		<SimpleData name="NAME1">Jantschweg</SimpleData>
+		<SimpleData name="FROM_NODE">10348488</SimpleData>
+		<SimpleData name="TO_NODE">10348489</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">73.27</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">14</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">10032951</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6940883</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.400797505852363,48.215721930777967 16.401605897378673,48.216099188003028</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23227734</SimpleData>
+		<SimpleData name="NAME1">TeuffenbachstraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">10346659</SimpleData>
+		<SimpleData name="TO_NODE">10346660</SimpleData>
+		<SimpleData name="SPEEDCAR_T">18</SimpleData>
+		<SimpleData name="SPEEDCAR_B">18</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">50</SimpleData>
+		<SimpleData name="VMAX_CAR_B">50</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">35.71</SimpleData>
+		<SimpleData name="FRC">6</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1.0</SimpleData>
+		<SimpleData name="LANES_BKW">1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">11.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">10044070</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6940700</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.409422836741125,48.219983750371 16.409777984222035,48.220200063542102</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23214565</SimpleData>
+		<SimpleData name="FROM_NODE">18004730</SimpleData>
+		<SimpleData name="TO_NODE">18005122</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">3</SimpleData>
+		<SimpleData name="ACCESS_BKW">3</SimpleData>
+		<SimpleData name="LENGTH">491.82</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">312</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">18495693</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT92101</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6939609</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.403626584887501,48.238334807317116 16.402529258341438,48.239277761616208 16.400765584074581,48.24080451456679 16.399594117437847,48.241842894202847</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23281924</SimpleData>
+		<SimpleData name="NAME1">Aristides-de-Sousa-Mendes-Promenade</SimpleData>
+		<SimpleData name="FROM_NODE">10468630</SimpleData>
+		<SimpleData name="TO_NODE">10468628</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">67.29</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">10468600</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT92201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6945334</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.414611280579397,48.233285402220815 16.414980606068486,48.233004885134839 16.415243703390018,48.232854208907568</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">23323130</SimpleData>
+		<SimpleData name="NAME1">Platz-der-Vereinten-Nationen</SimpleData>
+		<SimpleData name="FROM_NODE">10473279</SimpleData>
+		<SimpleData name="TO_NODE">10473255</SimpleData>
+		<SimpleData name="SPEEDCAR_T">20</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">50</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383630</SimpleData>
+		<SimpleData name="ACCESS_BKW">0</SimpleData>
+		<SimpleData name="LENGTH">23.10</SimpleData>
+		<SimpleData name="FRC">4</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">4</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">12.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">301</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">10473258</SimpleData>
+		<SimpleData name="EDGECAT">L</SimpleData>
+		<SimpleData name="REGCODE">AT92201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6948867</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.415203219543031,48.232515095761421 16.415181057931033,48.232532745731461 16.415171600521113,48.232538092384935 16.41515373859346,48.232548081699001 16.415122733862713,48.232560046849215 16.415089094276077,48.232568149430037 16.415053975909089,48.23257224925127 16.41501832619084,48.232572202669942 16.414983090190674,48.232568081882228 16.414949530537797,48.232559884224337 16.414926696841526,48.232551047885195</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">33042652</SimpleData>
+		<SimpleData name="FROM_NODE">18873026</SimpleData>
+		<SimpleData name="TO_NODE">18007084</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">415.41</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">312</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">18873028</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT92101</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6964666</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.399231716239377,48.236927763420631 16.398840452031902,48.237250327043746 16.398337728909894,48.237684239302581 16.397446881235396,48.238538437064349 16.396421506883925,48.239682376546824 16.39611857649238,48.240024627104695</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">33044188</SimpleData>
+		<SimpleData name="FROM_NODE">18876936</SimpleData>
+		<SimpleData name="TO_NODE">18876930</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">75.11</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">320</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">18876938</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6965373</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.410788042802455,48.220781229963862 16.410990878804718,48.22065273362329 16.41108141582383,48.220590284306702 16.41147334494848,48.220285594789544</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff00ccff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#kml_inp">
+		<SimpleData name="LINK_ID">33043711</SimpleData>
+		<SimpleData name="FROM_NODE">18875669</SimpleData>
+		<SimpleData name="TO_NODE">18875670</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">26.47</SimpleData>
+		<SimpleData name="FRC">10</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1.0</SimpleData>
+		<SimpleData name="LANES_BKW">-1.0</SimpleData>
+		<SimpleData name="FORMOFWAY">15</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1.0</SimpleData>
+		<SimpleData name="MAXWIDTH">-1.0</SimpleData>
+		<SimpleData name="MAXPRESS">-1.0</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7.0</SimpleData>
+		<SimpleData name="INT_LEVEL">0.0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">320</SimpleData>
+		<SimpleData name="ONEWAY_CAR">-1</SimpleData>
+		<SimpleData name="ONEWAY_BK">-1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">-1</SimpleData>
+		<SimpleData name="EDGE_ID">18875671</SimpleData>
+		<SimpleData name="EDGECAT">R</SimpleData>
+		<SimpleData name="REGCODE">AT90201</SimpleData>
+		<SimpleData name="SUSTAINER">99001</SimpleData>
+		<SimpleData name="SDE_ID">6965043</SimpleData>
+		<SimpleData name="SHAPE_LEN">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.405317211493095,48.22105437807619 16.40530192514035,48.221023683588655 16.405312837910696,48.221007587288071 16.405439628166505,48.220924113382047 16.405469713962507,48.220858051875169</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
