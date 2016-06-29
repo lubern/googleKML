@@ -3009,6 +3009,7 @@
       <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.458814585008756,48.238641189508655 16.458696625491726,48.238412176424589 16.458605165609146,48.23810394648585</coordinates></LineString>
   </Placemark>
   <Placemark>
+    <name>A 23 - R 57</name>
 	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#hirsch_inp">
 		<SimpleData name="LINK_ID">461017898</SimpleData>
@@ -11662,6 +11663,7 @@
       <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.460098366347029,48.240975241376717 16.460047057224177,48.240928905413767 16.459902070344263,48.240804061898288</coordinates></LineString>
   </Placemark>
   <Placemark>
+    <name>S 2 - R 2</name>
 	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#hirsch_inp">
 		<SimpleData name="LINK_ID">461017906</SimpleData>
@@ -14909,6 +14911,7 @@
       <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.45808192670145,48.246733898847737 16.458055891673265,48.24680018087443 16.458009339317815,48.246908990819236 16.457983372368904,48.247004008602289 16.457957523965149,48.247148980561903 16.457935467850689,48.247296548417594 16.457891162337258,48.247554094699382 16.457876241113468,48.247605329242639 16.45784651527882,48.24766789105194 16.457799911201295,48.247755413241748 16.457712276794705,48.247885484970759 16.457563152340651,48.248124383052094 16.457451864707814,48.248261505006496 16.45738576134908,48.248333309563186 16.457210300631306,48.248513497921039 16.457100167383498,48.248649846696892 16.4570743723079,48.248685214245107 16.457045931368803,48.248802857576976</coordinates></LineString>
   </Placemark>
   <Placemark>
+    <name>A 23 - R 56</name>
 	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#hirsch_inp">
 		<SimpleData name="LINK_ID">461017900</SimpleData>
