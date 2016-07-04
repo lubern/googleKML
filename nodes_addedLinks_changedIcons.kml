@@ -5,7 +5,9 @@
       <IconStyle>
         <Icon>
           <!--<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>-->
-          <href>https://www.kaffeewiki.de/images/5/50/Green_dot.png</href>
+          <href>https://raw.githubusercontent.com/lubern/googleKML/master/myIcon.png</href>
+        
+
         </Icon>
       </IconStyle>
       <BalloonStyle>
