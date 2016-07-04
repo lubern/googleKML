@@ -4,8 +4,8 @@
     <Style id="west_campus_style">
       <IconStyle>
         <Icon>
-          <!--<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>-->
-          <href>https://raw.githubusercontent.com/lubern/googleKML/master/myIcon.png</href>
+          <href>https://github.com/lubern/googleKML/blob/master/myIcon.png</href>
+          <!--<href>https://raw.githubusercontent.com/lubern/googleKML/master/myIcon.png</href>-->
         
 
         </Icon>
