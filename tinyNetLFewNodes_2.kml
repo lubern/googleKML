@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+        <Style id="west_campus_style_node">
+      <IconStyle>
+        <Icon>
+      
+      <href>https://raw.githubusercontent.com/lubern/googleKML/master/blackdot120x120_3.png
+      </href>
+
+        </Icon>
+      </IconStyle>
+
+    </Style>
+  <Placemark>
+   <name>Gartengasse</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2036104</SimpleData>
+		<SimpleData name="NAME1">Gartengasse</SimpleData>
+		<SimpleData name="FROM_NODE">1052785</SimpleData>
+		<SimpleData name="TO_NODE">18096926</SimpleData>
+		<SimpleData name="SPEEDCAR_T">20</SimpleData>
+		<SimpleData name="SPEEDCAR_B">20</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">10.52</SimpleData>
+		<SimpleData name="FRC">8</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1</SimpleData>
+		<SimpleData name="LANES_BKW">1</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">5</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">402</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">6001059366</SimpleData>
+		<SimpleData name="EDGECAT">G</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">31725</SimpleData>
+		<SimpleData name="SDE_ID">6504282</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3136566891467,48.0858264601792 16.3137222358579,48.0858094700379 16.3137716413741,48.0857753325766</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+  <name>Triesterstraße</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2330354</SimpleData>
+		<SimpleData name="NAME1">TriesterstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1572676</SimpleData>
+		<SimpleData name="TO_NODE">18024907</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">39</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">155.39</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1</SimpleData>
+		<SimpleData name="LANES_BKW">1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">6001572678</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">8270640</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3138693817348,48.085512786177 16.3139414295062,48.0852531153127 16.3140472686643,48.0844412696536 16.314069688587,48.0842413809294 16.3140728851739,48.0841234131202</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+  <name>Hauptstraße</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2315394</SimpleData>
+		<SimpleData name="NAME1">HauptstraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1548986</SimpleData>
+		<SimpleData name="TO_NODE">1545354</SimpleData>
+		<SimpleData name="SPEEDCAR_T">34</SimpleData>
+		<SimpleData name="SPEEDCAR_B">34</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">15.67</SimpleData>
+		<SimpleData name="FRC">5</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1</SimpleData>
+		<SimpleData name="LANES_BKW">1</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">5</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">402</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">6001548988</SimpleData>
+		<SimpleData name="EDGECAT">G</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">31725</SimpleData>
+		<SimpleData name="SDE_ID">7222815</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3140873352191,48.0868715366754 16.314293093,48.0868423473874</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+  <name>Gartengasse</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2313221</SimpleData>
+		<SimpleData name="NAME1">Gartengasse</SimpleData>
+		<SimpleData name="FROM_NODE">1027884</SimpleData>
+		<SimpleData name="TO_NODE">1545236</SimpleData>
+		<SimpleData name="SPEEDCAR_T">20</SimpleData>
+		<SimpleData name="SPEEDCAR_B">20</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">74.47</SimpleData>
+		<SimpleData name="FRC">8</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1</SimpleData>
+		<SimpleData name="LANES_BKW">1</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">5</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">402</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">6001545237</SimpleData>
+		<SimpleData name="EDGECAT">G</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">31725</SimpleData>
+		<SimpleData name="SDE_ID">7220892</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.312573323119,48.0858779552535 16.3128337104568,48.0858537684089 16.3130650466437,48.0858369524411 16.3133578276029,48.0858304771385 16.3135688129384,48.0858276381788</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+  <name>Gartengasse</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2313222</SimpleData>
+		<SimpleData name="NAME1">Gartengasse</SimpleData>
+		<SimpleData name="FROM_NODE">1545236</SimpleData>
+		<SimpleData name="TO_NODE">1052785</SimpleData>
+		<SimpleData name="SPEEDCAR_T">20</SimpleData>
+		<SimpleData name="SPEEDCAR_B">20</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">6.55</SimpleData>
+		<SimpleData name="FRC">8</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1</SimpleData>
+		<SimpleData name="LANES_BKW">1</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">5</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">402</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">6001545238</SimpleData>
+		<SimpleData name="EDGECAT">G</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">31725</SimpleData>
+		<SimpleData name="SDE_ID">7220893</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3135688129384,48.0858276381788 16.3136566891467,48.0858264601792</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+  <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2313972</SimpleData>
+		<SimpleData name="NAME1">WienerstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1545245</SimpleData>
+		<SimpleData name="TO_NODE">1545248</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">25.14</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">2</SimpleData>
+		<SimpleData name="LANES_BKW">-1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">18259700</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">7221469</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3137721423628,48.0880068227108 16.3137629522276,48.0879187142921 16.313748643861,48.087781280521</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+<name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2313971</SimpleData>
+		<SimpleData name="NAME1">WienerstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1545242</SimpleData>
+		<SimpleData name="TO_NODE">1545245</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">34.89</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">2</SimpleData>
+		<SimpleData name="LANES_BKW">-1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">18259700</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">7221468</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3138050396484,48.0883198420014 16.3137721423628,48.0880068227108</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2330413</SimpleData>
+		<SimpleData name="NAME1">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1572680</SimpleData>
+		<SimpleData name="TO_NODE">1572689</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">80</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">683.45</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1</SimpleData>
+		<SimpleData name="LANES_BKW">2</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">8</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">0</SimpleData>
+		<SimpleData name="ONEWAY_BK">0</SimpleData>
+		<SimpleData name="ONEWAY_BUS">0</SimpleData>
+		<SimpleData name="EDGE_ID">6001572690</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">8270698</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3142858520456,48.0930420340253 16.3142697843637,48.0928458624051 16.3141935632966,48.0918026132224 16.3141426511785,48.0911763676223 16.3140550540979,48.0900151475638 16.313947803928,48.0884731793901 16.3138545888717,48.0872282064129 16.3138461308235,48.0869027557318</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2330353</SimpleData>
+		<SimpleData name="NAME1">TriesterstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">18096926</SimpleData>
+		<SimpleData name="TO_NODE">1572676</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">30.13</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">2</SimpleData>
+		<SimpleData name="LANES_BKW">-1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">6001572677</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">8270639</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3137716413741,48.0857753325766 16.3137737478936,48.0857524285637 16.3138693817348,48.085512786177</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2314820</SimpleData>
+		<SimpleData name="NAME1">WienerstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1547873</SimpleData>
+		<SimpleData name="TO_NODE">1545242</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">31.01</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">2</SimpleData>
+		<SimpleData name="LANES_BKW">-1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">18259700</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">7222281</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3138269411875,48.0885983613174 16.3138144386282,48.088409567466 16.3138050396484,48.0883198420014</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">23144943</SimpleData>
+		<SimpleData name="NAME1">TriesterstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">18011342</SimpleData>
+		<SimpleData name="TO_NODE">18096926</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">128.07</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">2</SimpleData>
+		<SimpleData name="LANES_BKW">-1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">6001572677</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">6446970</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3136899764216,48.0869257709496 16.3136998014998,48.0867600270053 16.3137343476956,48.0861725112665 16.3137716413741,48.0857753325766</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2330414</SimpleData>
+		<SimpleData name="NAME1">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1572689</SimpleData>
+		<SimpleData name="TO_NODE">1572676</SimpleData>
+		<SimpleData name="SPEEDCAR_T">-1</SimpleData>
+		<SimpleData name="SPEEDCAR_B">80</SimpleData>
+		<SimpleData name="SPEEDTRU_T">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">1</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">155.22</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">-1</SimpleData>
+		<SimpleData name="LANES_BKW">2</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">8</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">0</SimpleData>
+		<SimpleData name="ONEWAY_BK">0</SimpleData>
+		<SimpleData name="ONEWAY_BUS">0</SimpleData>
+		<SimpleData name="EDGE_ID">6001572691</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">8270699</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3138461308235,48.0869027557318 16.3138433468746,48.0867942020254 16.313869107511,48.0863906276929 16.3139005591262,48.0859242408393 16.3139234323344,48.0856501575284 16.3138693817348,48.085512786177</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2313973</SimpleData>
+		<SimpleData name="NAME1">WienerstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1545248</SimpleData>
+		<SimpleData name="TO_NODE">1545251</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">36.81</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">2</SimpleData>
+		<SimpleData name="LANES_BKW">-1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">18259700</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">7221470</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.313748643861,48.087781280521 16.3137214919442,48.087521520379 16.3137169078003,48.0874509778763</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2313974</SimpleData>
+		<SimpleData name="NAME1">WienerstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1545251</SimpleData>
+		<SimpleData name="TO_NODE">18011342</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">58.44</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">2</SimpleData>
+		<SimpleData name="LANES_BKW">-1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">18259700</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">7221471</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3137169078003,48.0874509778763 16.3136947220099,48.0871063424725 16.3136899764216,48.0869257709496</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>Hauptstraße</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2315393</SimpleData>
+		<SimpleData name="NAME1">HauptstraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">1572689</SimpleData>
+		<SimpleData name="TO_NODE">1548986</SimpleData>
+		<SimpleData name="SPEEDCAR_T">34</SimpleData>
+		<SimpleData name="SPEEDCAR_B">34</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">18.3</SimpleData>
+		<SimpleData name="FRC">5</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1</SimpleData>
+		<SimpleData name="LANES_BKW">1</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">5</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">402</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">6001548987</SimpleData>
+		<SimpleData name="EDGECAT">G</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">31725</SimpleData>
+		<SimpleData name="SDE_ID">7222814</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3138461308235,48.0869027557318 16.314056921408,48.0868758863443 16.3140873352191,48.0868715366754</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 11</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2314050</SimpleData>
+		<SimpleData name="NAME1">BahnstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B11 - MÃ¶dlinger StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">18011342</SimpleData>
+		<SimpleData name="TO_NODE">1545233</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">39</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">58.44</SimpleData>
+		<SimpleData name="FRC">3</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1</SimpleData>
+		<SimpleData name="LANES_BKW">1</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">6001455482</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">7221541</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3136899764216,48.0869257709496 16.312914984036,48.0870069092871</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2330415</SimpleData>
+		<SimpleData name="NAME1">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">18011342</SimpleData>
+		<SimpleData name="TO_NODE">1572689</SimpleData>
+		<SimpleData name="SPEEDCAR_T">80</SimpleData>
+		<SimpleData name="SPEEDCAR_B">80</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">0</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">0</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">0</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">2383631</SimpleData>
+		<SimpleData name="LENGTH">11.91</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">1</SimpleData>
+		<SimpleData name="LANES_BKW">1</SimpleData>
+		<SimpleData name="FORMOFWAY">3</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">7</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">2</SimpleData>
+		<SimpleData name="ONEWAY_BK">2</SimpleData>
+		<SimpleData name="ONEWAY_BUS">2</SimpleData>
+		<SimpleData name="EDGE_ID">6001572692</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">8270700</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3136899764216,48.0869257709496 16.3138461308235,48.0869027557318</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+   <name>B 17</name>
+	<Style><LineStyle><color>ff778899</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#KML_Wr_Neudorf_neu3">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="LINK_ID">2330368</SimpleData>
+		<SimpleData name="NAME1">WienerstraÃŸe</SimpleData>
+		<SimpleData name="NAME2">B17 - Wiener NeustÃ¤dter StraÃŸe</SimpleData>
+		<SimpleData name="FROM_NODE">18012132</SimpleData>
+		<SimpleData name="TO_NODE">1547873</SimpleData>
+		<SimpleData name="SPEEDCAR_T">39</SimpleData>
+		<SimpleData name="SPEEDCAR_B">-1</SimpleData>
+		<SimpleData name="SPEEDTRU_T">0</SimpleData>
+		<SimpleData name="SPEEDTRU_B">-1</SimpleData>
+		<SimpleData name="VMAX_CAR_T">0</SimpleData>
+		<SimpleData name="VMAX_CAR_B">-1</SimpleData>
+		<SimpleData name="VMAX_TRU_T">0</SimpleData>
+		<SimpleData name="VMAX_TRU_B">-1</SimpleData>
+		<SimpleData name="ACCESS_TOW">2383631</SimpleData>
+		<SimpleData name="ACCESS_BKW">1</SimpleData>
+		<SimpleData name="LENGTH">494.68</SimpleData>
+		<SimpleData name="FRC">2</SimpleData>
+		<SimpleData name="CAP_TOW">-1</SimpleData>
+		<SimpleData name="CAP_BKW">-1</SimpleData>
+		<SimpleData name="LANES_TOW">2</SimpleData>
+		<SimpleData name="LANES_BKW">-1</SimpleData>
+		<SimpleData name="FORMOFWAY">2</SimpleData>
+		<SimpleData name="BRUNNEL">-1</SimpleData>
+		<SimpleData name="MAXHEIGHT">-1</SimpleData>
+		<SimpleData name="MAXWIDTH">-1</SimpleData>
+		<SimpleData name="MAXPRESS">-1</SimpleData>
+		<SimpleData name="ABUTTERCAR">0</SimpleData>
+		<SimpleData name="ABUTTERTRU">0</SimpleData>
+		<SimpleData name="URBAN">1</SimpleData>
+		<SimpleData name="WIDTH">10</SimpleData>
+		<SimpleData name="INT_LEVEL">0</SimpleData>
+		<SimpleData name="TOLL">-1</SimpleData>
+		<SimpleData name="BAUSTATUS">5</SimpleData>
+		<SimpleData name="SUBNET_ID">401</SimpleData>
+		<SimpleData name="ONEWAY_CAR">1</SimpleData>
+		<SimpleData name="ONEWAY_BK">1</SimpleData>
+		<SimpleData name="ONEWAY_BUS">1</SimpleData>
+		<SimpleData name="EDGE_ID">18259700</SimpleData>
+		<SimpleData name="EDGECAT">B</SimpleData>
+		<SimpleData name="REGCODE">AT31725</SimpleData>
+		<SimpleData name="SUSTAINER">3</SimpleData>
+		<SimpleData name="SDE_ID">8270654</SimpleData>
+		<SimpleData name="SHAPE_LEN">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>16.3141232922252,48.093042354642 16.3140989175482,48.0928979636124 16.314069735809,48.0924679609973 16.3140429753663,48.0920149833622 16.3140162124859,48.0915719128177 16.3139894592357,48.0911074828999 16.3139577765737,48.0906446672023 16.3139359464355,48.0901966088428 16.3138506967694,48.0889575401495 16.3138269411875,48.0885983613174</coordinates></LineString>
+  </Placemark>
+   <Placemark> 
+   <name>B 17 / B 11/ Hauptstraße</name>
+ <styleUrl>#west_campus_style_node</styleUrl>
+      <Point><coordinates>16.3136891273134,48.0869270375509</coordinates></Point>
+  </Placemark>
+  <Placemark> 
+   <name>B 17 / B 11/ Hauptstraße</name>
+ <styleUrl>#west_campus_style_node</styleUrl>
+      <Point><coordinates>16.3138472649236,48.0869030292958</coordinates></Point>
+  </Placemark>
+   <Placemark> 
+	<name>B 17 / Gartengasse</name>
+ <styleUrl>#west_campus_style_node</styleUrl>
+      <Point><coordinates>16.3137717901551,48.085776429326</coordinates></Point>
+  </Placemark>
+<Placemark> 
+<name>B 17 / Gartengasse</name>
+ <styleUrl>#west_campus_style_node</styleUrl>
+      <Point><coordinates>16.3138690537704,48.0855129322188</coordinates></Point>
+  </Placemark>
+</Document></kml>
